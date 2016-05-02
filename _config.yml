@@ -10,6 +10,7 @@ all_categories: [
 ["reading", "读书笔记","/posts/reading.html"], 
 ["tools", "编程工具","/posts/tools.html"],
 ["other", "杂记","/posts/other.html"],
+["about", "关于","/about.html"],
 ]
 
 paginate: 8
