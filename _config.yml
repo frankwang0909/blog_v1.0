@@ -1,0 +1,34 @@
+markdown: kramdown
+highlighter: rouge
+permalink: /posts/:title.html
+excerpt_separator: "<!-- more -->"
+# Site Author
+author:
+  name             : "Frank Wang"
+  avatar           : "bio-photo.jpg"
+  bio              : "I am a Web developer."
+  location         : "Shenzhen, PRC"
+  email            : "frankwang0909@gmail.com"
+  uri              : "http://www.wangxingfeng.com"
+  github           : "frankwang0909"
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  twitter          : "frankwang1008"
+  
+all_categories: [
+["web", "Web","/posts/web.html"], 
+["python", "Python","/posts/python.html"],
+["reading", "读书笔记","/posts/reading.html"], 
+["tools", "编程工具","/posts/tools.html"],
+["other", "杂记","/posts/other.html"],
+]
+
+paginate: 8
+paginate_path: "posts/page:num"
+timezone: #
+
+collections:
+  docs:
+    output: true
+
+gems:
+ - jekyll-paginate
