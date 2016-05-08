@@ -1,7 +1,7 @@
-# Yahoo的网页性能分析工具YSlow在Firefox浏览器下，功能早已不如从前
+## 在Firefox浏览器下，YSlow还能用吗？
 
 ### YSlow是什么？
-是Yahoo发布的一款基于FireFox的插件，最早只支持Firefox浏览器，需要先安装另外一个插件——Firebug才能正常使用。
+Yahoo的网页性能分析工具是Yahoo发布的一款基于FireFox的插件，最早只支持Firefox浏览器，需要先安装另外一个插件——Firebug才能正常使用。
 
 ### YSlow能做什么？
 YSlow可以对网站的页面进行分析，并告诉你为了提高网站性能，如何基于某些规则而进行优化。YSlow可以分析任何网站，并为每一个规则产生一个整体报告，如果页面可以进行优化，则YSlow会列出具体的修改意见
