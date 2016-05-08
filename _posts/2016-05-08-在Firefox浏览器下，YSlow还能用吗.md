@@ -1,4 +1,4 @@
-## 在Firefox浏览器下，YSlow还能用吗？
+
 
 ### YSlow是什么？
 YSlow是Yahoo发布的一款网页性能分析工具，它是基于FireFox的插件，最早只支持Firefox浏览器。使用前需要先安装另外一个插件——Firebug才能正常使用。
