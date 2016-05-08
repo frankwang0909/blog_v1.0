@@ -21,6 +21,9 @@ YSlow可以对网站的页面进行分析，并告诉你为了提高网站性能
 解决方法也很简单：
 
 1.  点击[YSlow官网](http://yslow.org/)右上角的 YSlow for Mobile/Bookmarklet 图标或者availability下面的 Mobile/Bookmarklet，将会跳转到另一页。![YSlow for Mobile/Bookmarklet](../images/yslow02.jpg)
-2.  拉倒页面底部，那里有一个大大的YSlow图标，把它直接拉倒火狐浏览器的标签栏，会在标签栏保存一个图标。![](../images/yslow03.jpg)
-3.  当你要分析网页的性能的时候，不再像以前那样按F12出来Firebug就能使用YSlow, 而是打开网页，直接点击一下标签栏的那个图标,就会弹出来YSlow的界面.![](../images/yslow04.jpg)
-我们能够看到的只有Home|Grade|Components|Statistics四个选项了，虽然比以前少了一个强大的tools，毕竟还是能够凑合着用。![](../images/yslow06.jpg)
+2.  拉倒页面底部，那里有一个大大的YSlow图标，把它直接拉倒火狐浏览器的标签栏，会在标签栏保存一个图标。
+![](../images/yslow03.jpg)
+3.  当你要分析网页的性能的时候，不再像以前那样按F12出来Firebug就能使用YSlow, 而是打开网页，直接点击一下标签栏的那个图标,就会弹出来YSlow的界面.
+![](../images/yslow04.jpg)
+我们能够看到的只有Home|Grade|Components|Statistics四个选项了，虽然比以前少了一个强大的tools，毕竟还是能够凑合着用。
+![](../images/yslow05.jpg)
