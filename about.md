@@ -2,12 +2,9 @@
 layout: page
 title: "关于：About"
 ---
-Welcome to visit my blog!
 
 #### Personal Info
 Name: Frank Wang
-
-Gender: Male  
 
 City: Shenzhen, China 
 
