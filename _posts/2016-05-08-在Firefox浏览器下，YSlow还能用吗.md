@@ -29,6 +29,7 @@ YSlow可以对网站的页面进行分析，并告诉你为了提高网站性能
 
 1.  点击[YSlow官网](http://yslow.org/)右上角的 YSlow for Mobile/Bookmarklet 图标或者availability下面的 Mobile/Bookmarklet，将会跳转到另一页。
 
+
 ![YSlow for Mobile/Bookmarklet](../images/yslow02.jpg)
 
 
