@@ -47,7 +47,7 @@ YSlow可以对网站的页面进行分析，并告诉你为了提高网站性能
 ![](../images/yslow04.jpg)
 
 
-我们能够看到的只有Home|Grade|Components|Statistics四个选项了，虽然比以前少了一个强大的tools，毕竟还是能够凑合着用。
+我们能够看到的只有Home\Grade\Components\Statistics四个选项了，虽然比以前少了一个强大的tools，毕竟还是能够凑合着用。
 
 
 ![](../images/yslow05.jpg)
