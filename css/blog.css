@@ -1,0 +1,11 @@
+/*!
+ * Start Bootstrap - Blog Home HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+body {padding-top: 50px;background: url(../images/bg.jpg);}
+h2{font-size: 20px; line-height: 30px; border-bottom: 1px dotted #666;}
+footer {margin: 50px 0；}
+.post-date{float:right;padding:5px;font-size:12px}
+/*返回顶部*/
+#go-top{ position: fixed; bottom: 20px; right:5px; border: 1px solid #000; border-radius: 2px; width: 40px; background-color: #fff; opacity: 0.6; text-align: center;cursor: pointer;}
