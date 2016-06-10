@@ -13,5 +13,5 @@ Bootstrap与最新版的Google Chrome、Firefox、Internet Explorer、Opera和Sa
 从2.0版本开始，Bootstrap支持响应式网页设计。页面布局可以根据显示网页的设备（桌面、平板电脑、手机）来进行动态调整。
 从3.0版本开始，Bootstrap将移动设备优先作为设计方针，更加强调了响应式设计。[摘自维基百科](https://zh.wikipedia.org/wiki/Bootstrap)
 
-### 我用Bootstrap开发的网站改版重新上线了
+##### 我用Bootstrap开发的网站改版重新上线了
 [广州长疆电子科技有限公司官方网站 www.changjiangkeji.cn ](http://www.changjiangkeji.cn/)
