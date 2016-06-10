@@ -3,9 +3,10 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-body {padding-top: 50px;}
+body {padding-top: 50px; font-family: "微软雅黑";}
 h2{height: 30px; line-height: 30px;}
 h2>a{font-size: 18px;}
+h2 .post-date{font-size: 12px;}
 footer {margin: 50px 0；}
 /*返回顶部*/
 #go-top{ position: fixed; bottom: 20px; right:5px; border: 1px solid #000; border-radius: 2px; width: 40px; background-color: #fff; opacity: 0.6; text-align: center;cursor: pointer;}
