@@ -11,6 +11,7 @@ body {padding-top: 50px; font-family: "微软雅黑";}
 h2{font-size: 20px!important;}
 h2>a{font-size: 18px;}
 .post-date{font-size: 12px;}
+h4{font-size: 16px!important;}
 /*分类列表*/
 .main-body{min-height: 580px;}
 /*返回顶部*/
