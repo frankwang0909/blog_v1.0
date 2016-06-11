@@ -4,7 +4,7 @@ category: tools
 title:  "Sublime Text 新手指南"
 tags: [Sublime, 新手指南, 插件Emmet, windows平台]
 ---
-### Sublime Text 新手指南
+
 自从我的代码编辑器改为[Sublime Text](https://www.sublimetext.com/)之后，写代码的效率明显高了许多。最近，我开始尝试着给身边的朋友推荐这款编辑器。当然，编辑器只不过是一个工具，能够提高自己的工作效率就是好的。
 
 ####  一、为什么要推荐Sublime Text?
