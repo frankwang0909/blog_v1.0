@@ -6,7 +6,8 @@
  */
 body {padding-top: 50px; font-family: "微软雅黑";}
 .navbar{background-color: #428bca!important;}
-.navbar li a{color:#fff!important; font-weight: bold;}
+.navbar a{color:#fff!important;}
+.navbar li:hover{color: #8a6d3b;font-weight: bold;}
 h2{height: 24px!important;; line-height: 30px;}
 h2>a{font-size: 18px;}
 h2 .post-date{font-size: 12px;}
