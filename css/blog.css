@@ -1,3 +1,4 @@
+@charset "utf-8";
 /*!
  * Start Bootstrap - Blog Home HTML Template (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
@@ -9,6 +10,6 @@ body {padding-top: 50px; font-family: "微软雅黑";}
 h2{height: 24px!important;; line-height: 30px;}
 h2>a{font-size: 18px;}
 h2 .post-date{font-size: 12px;}
-footer{ width:100%!important;margin:30px 0 10px; background-color:#ccc;}
+footer{ width:100%!important; margin:30px 0 0; background-color:#ccc;}
 /*返回顶部*/
 #go-top{ position: fixed; bottom: 20px; right:5px; border: 1px solid #000; border-radius: 2px; width: 40px; background-color: #fff; opacity: 0.6; text-align: center;cursor: pointer;}
