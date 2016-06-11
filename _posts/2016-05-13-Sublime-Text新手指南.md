@@ -24,6 +24,7 @@ tags: [Sublime, 新手指南, 插件Emmet, windows平台]
 
 8.格式化代码；
 
+
 ####  二、如何安装Sublime Text以及下载管理插件？
 1.下载安装包：Sublime Text官网地址：[https://www.sublimetext.com/](https://www.sublimetext.com/) 
 
@@ -67,6 +68,7 @@ tags: [Sublime, 新手指南, 插件Emmet, windows平台]
 
 ![](../images/2016051308.jpg)
 
+
 #### 三、推荐几个好用的插件：
 1.ChineseLocalization汉化插件。
 
@@ -81,6 +83,7 @@ tags: [Sublime, 新手指南, 插件Emmet, windows平台]
 6.Hasher:符号转义。
 
 7.TrailingSpaces：多余空格标记。
+
 
 #### 四、常用的一些快捷键（windows平台下）：
 1.Ctrl + Shift + N 新建窗口；Ctrl + W 关闭该窗口。
