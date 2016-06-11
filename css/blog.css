@@ -12,6 +12,6 @@ h2{font-size: 24px!important;}
 h2>a{font-size: 18px;}
 h2 .post-date{font-size: 12px;}
 /*分类列表*/
-.main-body{min-height: 600px;}
+.main-body{min-height: 580px;}
 /*返回顶部*/
 #go-top{ position: fixed; bottom: 20px; right:5px; border: 1px solid #000; border-radius: 2px; width: 40px; background-color: #fff; opacity: 0.6; text-align: center;cursor: pointer;}
