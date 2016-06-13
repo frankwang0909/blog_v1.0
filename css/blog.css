@@ -8,10 +8,9 @@ body {padding-top: 50px; font-family: "微软雅黑";}
 .navbar{background-color: #428bca!important;}
 .navbar a{
 	color:#fff!important;
+	padding-bottom: 5px;
 }
 .navbar li a:hover{ 
-	background-color: #31708f!important; 
-	color: #f34949!important;
     border-bottom: 2px solid #f34949;
 }
 h2{font-size: 20px!important;}
