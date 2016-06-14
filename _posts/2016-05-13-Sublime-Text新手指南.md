@@ -5,7 +5,7 @@ title:  "Sublime Text 新手指南"
 tags: [Sublime, 新手指南, 插件Emmet, windows平台]
 ---
 
-自从我的代码编辑器改为[Sublime Text](https://www.sublimetext.com/)之后，写代码的效率明显高了许多。最近，我开始尝试着给身边的朋友推荐这款编辑器。当然，编辑器只不过是一个工具，能够提高自己的工作效率就是好的。
+自从我的代码编辑器改为[Sublime Text](https://www.sublimetext.com/)之后，写代码的效率明显高了许多。最近，我开始尝试着给身边的朋友推荐这款编辑器。
 
 ####  一、为什么要推荐Sublime Text?
 1.跨平台；
@@ -26,17 +26,18 @@ tags: [Sublime, 新手指南, 插件Emmet, windows平台]
 
 
 ####  二、如何安装Sublime Text以及下载管理插件？
-1.下载安装包：Sublime Text官网地址：[https://www.sublimetext.com/](https://www.sublimetext.com/) 
+1.下载安装包：
 
-根据自己的系统选择对应的安装包下载并安装。目前稳定版本为Sublime Text 3;
+Sublime Text官网地址：[https://www.sublimetext.com/](https://www.sublimetext.com/) 根据自己的系统选择对应的安装包下载并安装。目前稳定版本为Sublime Text 3;
 
-2.安装Package Control: Package Control 官网安装地址：[https://packagecontrol.io/installation](https://packagecontrol.io/installation)
+2.安装Package Control:
+
+下载插件之前需要先安装Package Control，它是用来管理和下载插件的控制组件。 Package Control 官网安装地址：[https://packagecontrol.io/installation](https://packagecontrol.io/installation)
 
 ![](../images/2016051301.jpg)
 
-下载插件之前需要先安装Package Control，它是用来管理和下载插件的控制组件。
 
-1）使用快键键 ` ctrl+` `或者 View > Show Console 菜单打开控制台，然后，然后回车让它安装。
+1）使用快键键 ctrl+` 或者 View > Show Console 菜单打开控制台，然后，然后回车让它安装。
 
 ![](../images/2016051302.jpg)
 
@@ -46,9 +47,10 @@ tags: [Sublime, 新手指南, 插件Emmet, windows平台]
 
 3）黏贴到控制台输入框里，按Enter键，插件管理包就进入正在下载安装的状态（可能需要一点时间）；
 
-3.自定义安装各种插件：在 Package Control官网地址：[https://packagecontrol.io/](https://packagecontrol.io/)
 
-可以看到各种插件以及它的下载量排名，找到自己感兴趣的，下载下来试用。
+3.自定义安装各种插件：
+
+在 Package Control官网地址：[https://packagecontrol.io/](https://packagecontrol.io/)可以看到各种插件以及它的下载量排名，找到自己感兴趣的，下载下来试用。
 
 下载安装方法如下： (windows平台)
 
@@ -70,7 +72,8 @@ tags: [Sublime, 新手指南, 插件Emmet, windows平台]
 
 
 #### 三、推荐几个好用的插件：
-1.ChineseLocalization汉化插件。
+
+1.ChineseLocalization：汉化插件。
 
 2.Emmet：通过简单的命令直接生成一大段代码。
 
@@ -85,12 +88,15 @@ tags: [Sublime, 新手指南, 插件Emmet, windows平台]
 7.TrailingSpaces：多余空格标记。
 
 
-#### 四、常用的一些快捷键（windows平台下）：
+#### 四、常用的快捷键（windows平台下）：
+
 1.Ctrl + Shift + N 新建窗口；Ctrl + W 关闭该窗口。
 
 2.Ctrl + N 新建标签；Ctrl + W 关闭当前标签；Ctrl + Shift + T 恢复刚刚关闭的标签。
 
-3.Alt + Shift + 2 左右分屏； Alt + Shift + 8  上下分屏；Alt + Shift + 5  上下左右分为四屏。Ctrl + 数字键 跳转到指定屏，使用Ctrl + Shift + 数字键将当前屏移动到指定。ctrl+ 1 变回一屏显示。
+3.Alt + Shift + 2 左右分屏； Alt + Shift + 8  上下分屏；Alt + Shift + 5  上下左右分为四屏。Ctrl + 数字键 跳转到指定屏；Ctrl + Shift + 数字键 将当前屏移动到指定。
+
+ctrl+ 1 变回一屏显示。
 
 4.F11 切换普通全屏; Shift + F11 切换无干扰全屏。
 
