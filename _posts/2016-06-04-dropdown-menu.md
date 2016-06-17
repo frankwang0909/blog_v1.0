@@ -124,12 +124,12 @@ tags: 下拉菜单,导航栏,css,jQuery,JavaScript]
 ### 下拉菜单效果的实现
 如何实现鼠标移动到主菜单相应的li元素位置时，显示二级菜单，而移开鼠标则隐藏二级菜单。基本的实现方法纯CSS样式、jQuery、 原生JavaScript等三种实现方法。
 
-#### 方法一、 纯CSS样式：   见demo1
+#### 方法一、 纯CSS样式：   [见demo1](http://www.wangxingfeng.com/posts/demo1.html)
 最简单的方式是直接使用css的 `:hover` 来实现。当鼠标移动到主菜单的对应的li上时，二级菜单设置为可见的块级元素  `display: block;`
 	.navMenu li:hover .subMenu{display: block;}	/*hover是显示二级菜单*/
 
 
-#### 方法二、 jQuery：   见demo2
+#### 方法二、 jQuery：   [见demo2](http://www.wangxingfeng.com/posts/demo2.html)
 使用jQuery获取li元素，绑定mouseover、mouseout事件，调用jQuery的show()、hide()方法。参考代码如下：
 
 	<script src="js/jquery-2.2.3.min.js"></script>
@@ -144,7 +144,7 @@ tags: 下拉菜单,导航栏,css,jQuery,JavaScript]
 		});
 	</script>
 
-#### 方法三、 原生JavaScript：  见demo3
+#### 方法三、 原生JavaScript： [见demo3](http://www.wangxingfeng.com/posts/demo3.html)
 先定义显示和隐藏元素的函数
 
 <script type="text/javascript">
