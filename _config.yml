@@ -10,7 +10,6 @@ all_categories: [
 ["reading", "读书笔记","/posts/reading.html"], 
 ["tools", "工具","/posts/tools.html"],
 ["other", "杂记","/posts/other.html"],
-["portfolio", "作品展示","http://frankwong1008.github.io"],
 ["about", "关于","/about.html"],
 ]
 
