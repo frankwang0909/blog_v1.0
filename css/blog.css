@@ -10,7 +10,7 @@ body {padding-top: 70px; font-family: "微软雅黑";line-height:25px;}
 .navbar li a:hover{ color:#f34949!important;background-color: #0f518b!important;}
 h2{font-size: 20px!important;}
 h2>a{font-size: 18px;}
-.post-date{font-size: 12px;float: right;}
+.post-date{font-size: 14px;float: right;}
 h3{font-size:17px};
 h4{font-size: 16px!important;}
 /*分类列表*/
