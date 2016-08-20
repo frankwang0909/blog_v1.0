@@ -45,7 +45,7 @@
 				{% for cat in site.all_categories %}{% if page.category == cat[0] %}
 				<a href="/">首页</a>&nbsp;>&nbsp;<a href="{{cat[2]}}">{{cat[1]}}</a>&nbsp;>&nbsp;列表{% endif %}{% endfor %}
 				<!-- List -->
-				<ul class="list-unstyled">
+				<ul class="list-unstyled cate-lists">
 				    {% for post in site.categories[page.category] %}
 					{% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
 					{% if year != y %}
