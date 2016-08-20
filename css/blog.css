@@ -5,6 +5,8 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 body {padding-top: 70px; font-family: "微软雅黑";line-height:25px;}
+a{color:#000!important;font-size:14px!important;line-height:25px!important;}
+a:hover{color:#e5000f!important;font-size: 16px!important;text-decoration: none!important;}
 .navbar{background-color: #428bca!important;}
 .navbar a{color:#fff!important;}
 .navbar li a:hover{ color:#f34949!important;background-color: #0f518b!important;}
@@ -15,5 +17,7 @@ h3{font-size:17px};
 h4{font-size: 16px!important;}
 /*分类列表*/
 .main-body{min-height: 580px;}
+.cate-lists h2{ border-bottom: 1px dotted #ccc;}
+.cate-lists h4{font-size: 14px!important;}
 /*返回顶部*/
 #go-top{ position: fixed; bottom: 20px; right:5px; border: 1px solid #000; border-radius: 2px; width: 40px; background-color: #fff; opacity: 0.6; text-align: center;cursor: pointer;}
