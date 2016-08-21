@@ -5,12 +5,12 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 body {padding-top: 70px; font-family: "微软雅黑";line-height:25px;}
-a{color:#000!important;font-size:14px!important;line-height:25px!important;}
-a:hover{color:#428bca!important;text-decoration: none!important;}
-.navbar{background-color: #428bca!important;}
-.navbar a{color:#fff!important;}
-.navbar li a:hover{ color:#f34949!important;background-color:#0f518b;}
-h2{font-size: 20px!important;}
+a{color:#000;font-size:14px;line-height:25px;}
+a:hover{color:#428bca;text-decoration: none;}
+.navbar{background-color: #428bca;border:none;}
+.navbar a{color:#fff;}
+.navbar li a:hover{ color:#f34949;background-color:#0f518b;}
+h2{font-size: 20px;}
 h2>a{font-size: 18px;}
 .post-date{font-size: 14px;float: right;}
 h3{font-size:17px};
@@ -21,4 +21,4 @@ h4{font-size: 16px;}
 .cate-lists h4{font-size: 14px}
 .cate-lists h4 span{ font-size: 14px}
 /*返回顶部*/
-#go-top{ position: fixed; bottom: 20px; right:5px; border: 1px solid #000; border-radius: 2px; width: 40px; background-color: #fff; opacity: 0.6; text-align: center;cursor: pointer;}
+#go-top{ position: fixed; bottom: 20px; right:5px; border: 1px solid #ccc; border-radius: 2px; width: 40px; background-color: #fff; opacity: 0.6; text-align: center;cursor: pointer;}
